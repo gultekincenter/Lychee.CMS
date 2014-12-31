@@ -1,0 +1,29 @@
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\obj\Debug\Lychee.CMS.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Domain.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Domain.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Data.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Entities.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Infrastructure.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Entities.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Data.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Infrastructure.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\obj\Debug\Lychee.CMS.Domain.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\obj\Debug\Lychee.CMS.Domain.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Ninject.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Domain\bin\Debug\Ninject.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\obj\Debug\Lychee.CMS.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\obj\Debug\Lychee.CMS.Domain.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\obj\Debug\Lychee.CMS.Domain.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Domain.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Domain.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Data.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Entities.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Infrastructure.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Ninject.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Data.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Entities.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Lychee.CMS.Infrastructure.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Domain\bin\Debug\Ninject.xml

@@ -1,0 +1,206 @@
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\obj\Debug\Lychee.CMS.Web.csprojResolveAssemblyReference.cache
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Web.dll.config
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Web.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Web.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Antlr3.Runtime.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\EntityFramework.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Common.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Domain.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Entities.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Microsoft.Data.OData.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Newtonsoft.Json.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Spatial.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Helpers.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Http.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Http.OData.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Mvc.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Optimization.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Razor.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.WebPages.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\WebGrease.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\WebMatrix.Data.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\WebMatrix.WebData.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Data.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Infrastructure.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Entities.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Common.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Domain.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\EntityFramework.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Newtonsoft.Json.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Helpers.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Http.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Mvc.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Razor.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.WebPages.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\WebMatrix.Data.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\WebMatrix.WebData.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Web.Http.OData.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Microsoft.Data.OData.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\System.Spatial.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Data.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Lychee.CMS.Infrastructure.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\de\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\es\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\it\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\obj\Debug\Lychee.CMS.Web.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\obj\Debug\Lychee.CMS.Web.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Ninject.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Ninject.Web.Common.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\WebActivatorEx.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Ninject.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Ninject.Web.Common.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\obj\Debug\Lychee.CMS.Web.csprojResolveAssemblyReference.cache
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\obj\Debug\Lychee.CMS.Web.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\obj\Debug\Lychee.CMS.Web.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Web.dll.config
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Web.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Web.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Antlr3.Runtime.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\EntityFramework.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Common.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Domain.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Entities.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Microsoft.Data.OData.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Newtonsoft.Json.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Ninject.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Ninject.Web.Common.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Spatial.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Helpers.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Http.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Http.OData.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Mvc.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Optimization.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Razor.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.WebPages.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\WebActivatorEx.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\WebGrease.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\WebMatrix.Data.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\WebMatrix.WebData.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Data.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Infrastructure.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Common.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Domain.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Entities.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Ninject.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Ninject.Web.Common.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\EntityFramework.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Newtonsoft.Json.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Helpers.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Http.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Mvc.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Razor.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.WebPages.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\WebMatrix.Data.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\WebMatrix.WebData.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Web.Http.OData.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Microsoft.Data.OData.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\System.Spatial.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Data.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\Lychee.CMS.Infrastructure.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\de\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\es\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\it\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Web\bin\zh-Hant\System.Spatial.resources.dll

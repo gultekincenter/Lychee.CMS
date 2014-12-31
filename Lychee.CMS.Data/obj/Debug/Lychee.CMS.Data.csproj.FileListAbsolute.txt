@@ -1,0 +1,5 @@
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Data\bin\Debug\Lychee.CMS.Data.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Data\bin\Debug\Lychee.CMS.Data.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Data\obj\Debug\Lychee.CMS.Data.csprojResolveAssemblyReference.cache
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Data\obj\Debug\Lychee.CMS.Data.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Data\obj\Debug\Lychee.CMS.Data.pdb

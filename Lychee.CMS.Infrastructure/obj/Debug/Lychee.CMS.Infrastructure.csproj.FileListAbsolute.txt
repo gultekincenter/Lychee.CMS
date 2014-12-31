@@ -1,0 +1,21 @@
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\obj\Debug\Lychee.CMS.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\bin\Debug\Lychee.CMS.Infrastructure.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\bin\Debug\Lychee.CMS.Infrastructure.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\bin\Debug\Lychee.CMS.Entities.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\bin\Debug\Lychee.CMS.Entities.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\obj\Debug\Lychee.CMS.Infrastructure.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\obj\Debug\Lychee.CMS.Infrastructure.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\bin\Debug\Ninject.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Infrastructure\bin\Debug\Ninject.xml
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\obj\Debug\Lychee.CMS.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\obj\Debug\Lychee.CMS.Infrastructure.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\obj\Debug\Lychee.CMS.Infrastructure.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\bin\Debug\Lychee.CMS.Infrastructure.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\bin\Debug\Lychee.CMS.Infrastructure.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\bin\Debug\Lychee.CMS.Entities.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\bin\Debug\Ninject.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\bin\Debug\Lychee.CMS.Entities.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Infrastructure\bin\Debug\EntityFramework.xml

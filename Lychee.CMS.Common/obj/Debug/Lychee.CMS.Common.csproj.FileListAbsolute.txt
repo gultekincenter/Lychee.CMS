@@ -1,0 +1,8 @@
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Common\bin\Debug\Lychee.CMS.Common.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Common\bin\Debug\Lychee.CMS.Common.pdb
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Common\obj\Debug\Lychee.CMS.Common.dll
+C:\Users\Cawi\Documents\Visual Studio 2013\Lychee_Projects\Lychee.CMS.Common\obj\Debug\Lychee.CMS.Common.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Common\bin\Debug\Lychee.CMS.Common.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Common\bin\Debug\Lychee.CMS.Common.pdb
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Common\obj\Debug\Lychee.CMS.Common.dll
+C:\Users\Cawi\Documents\Lychee.CMS\Lychee.CMS.Common\obj\Debug\Lychee.CMS.Common.pdb
